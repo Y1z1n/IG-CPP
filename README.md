@@ -1,4 +1,4 @@
-**A Simple python function to change profile picture
+**A Simple python function to change profile picture**
 ```python
 def change(): #You need to login to get "cookies"
     rHeaders = {
